@@ -1,0 +1,56 @@
+.position { display: inline;
+}
+
+header{
+    background-color: rgba(242, 14, 155, 0.998);
+    border-radius: 10px;
+
+
+}
+
+body{
+    color: rgb(2, 2, 2);
+    background-color: wheat
+}
+
+
+
+.sticky{ 
+    position: sticky;
+    top: 0;
+
+
+}
+
+
+
+h1{ 
+    margin-left: 0 ;
+    text-align: left;
+    color: aqua;
+    position: sticky;
+}
+
+
+.mynav ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+        
+}
+
+.mynav ul a{
+    display: inline-block;
+text-decoration: none;
+font-family: Georgia, 'Times New Roman', Times, serif; 
+font-weight: bolder ;
+color: rgb(21, 86, 86);
+}
+
+#section1 img { padding-top: 40px;
+
+
+
+}
+
+    
